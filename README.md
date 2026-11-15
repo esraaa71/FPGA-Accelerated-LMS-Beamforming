@@ -149,7 +149,7 @@ The 4-tap LMS design incorporates a deeply pipelined 8-stage architecture. This 
 > This section should be updated after the 4-tap Vivado reports are captured.
 
 ### Block Design
-![4-Tap Block Design](docs/images/four_tap/four_tap_block_design.png)
+![4-Tap Block Design](/images/four_tap/four_tap_block_design.png)
 
 ### Vivado Synthesis & Implementation Reports
 * **Timing Summary:**
