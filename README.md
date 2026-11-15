@@ -130,7 +130,7 @@ All hardware designs target the **Xilinx Zynq-7020 SoC (specifically device `xc7
 The 1-tap LMS core is optimized for minimal resource utilization and functions as a simple phase and amplitude corrector.
 
 ### Block Design
-![1-Tap Block Design](images/one_tap/one_tap_block_design.png)
+![1-Tap Block Design](one_tap/one_tap_block_design.png)
 
 ### Vivado Synthesis & Implementation Reports
 * **Timing Summary:**
